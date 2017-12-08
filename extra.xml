@@ -1,0 +1,382 @@
+﻿bitly shortened link of adhithya        http://bit.ly/1bblDGF
+facebook link       http://on.fb.me/1f3mQLE
+twitter		http://bit.ly/1gdavXd
+blogspot 	http://bit.ly/MzLGvj
+
+   /*function scrollDownFn()
+   {
+		//$("html , body").animate({scrollTop: $(document).height() - $(window).height() });
+		if(ScrollStatus=="up")
+		{
+			$("html, body").animate({ scrollTop: $(document).height()  }, 1000);  //Scrolling the page up
+			$("#bottom").animate({height:'160px'});
+			$("#bottom").animate({height:'150px'});
+			ScrollStatus="down";
+			$('#ScrollDownButt').text("Back");
+		}
+		else
+		{
+			$("html, body").animate({ scrollTop: -$(document).height()  }, 1000);  //Scrolling the page up
+			$("#bottom").animate({height:'160px'});
+			$("#bottom").animate({height:'150px'});
+			ScrollStatus="up";
+			$('#ScrollDownButt').text("Reach Us");
+		}
+		
+	}*/
+
+
+	
+	<Node>
+		<NodeID>Node4</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>நன்றி மீண்டும் வருக</Tamil>
+		<English>Thank you, Visit Again</English>
+	</Node>
+
+<Node>
+		<NodeID>Node3</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>தொடர்புக்கு</Tamil>
+		<English>For Contact</English>
+	</Node>
+
+<!--<Node>
+		<NodeID>Welcome</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>ஸ்ரீ ஆதித்யா கேட்ரிங் சர்வீஸஸ் தங்களை அன்புடன் வரவேற்கிறது</Tamil>
+		<English>Welcome to Shree Adhithya Catering Services</English>
+	</Node>-->
+	
+	<!--
+	
+	<Node>
+		<NodeID>Day1NightList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<Li>இரவு 7 மணி - சாப்பாடு</Li>
+			<Li>தக்காளி சூப்</Li>
+			<Li>போளி</Li>
+			<Li>அக்காரவடிசல்</Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>பூரி (அல்லது) சப்பாத்தி குருமா</Li>
+			<Li>வெஜி பிரியாணி (அல்லது) பிரைடு ரைஸ்</Li>
+			<Li>உருழைக்கிழங்கு கார கறி</Li>
+			<Li>காளிப்பிளவர் டோஸ்ட் </Li>
+			<Li>பிஸிபேளாபாத்</Li>
+			<Li>கறிவேப்பிலை சாதம்</Li>
+			<Li>சிப்ஸ் - பப்படம்</Li>
+			<Li>ஊறுகாய்</Li>
+			<Li>பகாளா பாத்</Li>
+			<Li>ஐஸ்கிரீம் & பீடா</Li>
+		</Tamil>
+		
+		<English>
+			<Li>7 pm - Meal</Li>
+			<Li>Tomato Soup</Li>
+			<Li>Poli</Li>
+			<Li>Akkaravatical</Li>
+			<Li>Yogurt Salad</Li>
+			<Li>Puri (or) bread kura</Li>
+			<Li>Veji biryani (or) Pride Rice</Li>
+			<Li>Urulaikkilanku alkaline food</Li>
+			<Li>Toast of cauliflower</Li>
+			<Li>Pisipelapat</Li>
+			<Li>Curry rice</Li>
+			<Li>Chips - pappatam</Li>
+			<Li>Pickle</Li>
+			<Li>Pakala Bath</Li>
+			<Li>Ice Cream & beeda</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day2MorningList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<Li>டே2 காலை 7 மணி டிபன்</Li>
+			<Li>அசோகா அல்வா (அல்லது) பைனாப்பிள் புட்டிங்</Li>
+			<Li>இட்லி, மிளகாய்ப்பொடி</Li>
+			<Li>வெண்பொங்கல்</Li>
+			<Li>மசால் தோசை (அல்லது) ஆனியன் ஊத்தப்பம்</Li>
+			<Li>ஸ்பெஷல் வடை (அல்லது) சாம்பார் வடை</Li>
+			<Li>சட்னி, சாம்பார், காபி</Li>
+			<Li></Li>
+			<Li>லெமன் ஜூஸ் (அல்லது ) ரஸ்னா</Li>
+		</Tamil>
+		
+		<English>
+			<Li>Day2 Breakfast 7 am</Li>
+			<Li>Ashoka halwa (or) Pineapple Pudding</Li>
+			<Li>Idli, pepper</Li>
+			<Li>Venponkal</Li>
+			<Li>Much of the dosa (or) Onion uttappam</Li>
+			<Li>Special dumplings (or) Vada Sambar</Li>
+			<Li>Chutney, sambar, coffee</Li>
+			<Li></Li>
+			<Li>Lemon juice (or) Rasna</Li>
+		</English> 
+	</Node>
+<!--	
+
+***
+<Node>
+	<NodeID>Day2AfternoonList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>11 மணி - முகூர்த்த சாப்பாடு</LH>
+			<Li>கடலை பருப்பு பாசிப்ருப்பு பாயாசம்</Li>
+			<Li>ஜாங்கிரி</Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>பழப்பச்சடி</Li>
+			<Li>வாழைக்காய் பொடிமாஸ்</Li>
+			<Li>பீன்ஸ் பருப்பு உசிலி</Li>
+			<Li>அவியல்</Li>
+			<Li>கதம்ப சாம்பார் பிட்ளை</Li>
+			<Li>வெண்டை மோர்க்குழம்பு</Li>
+			<Li>மைசூர் ரசம்</Li>
+			<Li>புளியோதரை, மசால் வடை</Li>
+			<Li>பருப்பு, நெய், அப்பளம், ஊறுகாய், தயிர் </Li>
+		</Tamil>
+
+		<English>
+			<LH>Muhurtha Lunch at 11 AM</LH>
+			<Li>Chopped nuts pudding pacipruppu</Li>
+			<Li>Jankiri</Li>
+			<Li>Yogurt Salad</Li>
+			<Li>Palappaccati</Li>
+			<Li>Banana potimas</Li>
+			<Li>Beans and pulses ucili</Li>
+			<Li>Science</Li>
+			<Li>Sambar bit eclectic</Li>
+			<Li>Bhindi morkkulampu</Li>
+			<Li>Mysore soup</Li>
+			<Li>Puliyotarai, lucerne dumplings</Li>
+			<Li>Pulses, ghee, papad, pickles, yogurt</Li>
+		</English>
+	</Node>
+	
+
+***********
+
+	<Node>
+	<NodeID>Day2EveningList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>மாலை 4.30 மணி - டிபன்</LH>
+			<Li>பாதுஷா (அல்லது) சோன்பப்டி</Li>
+			<Li>மிக்ஸர், வெஜிடபிள் கட்லெட் (அல்லது) தூள் பஜ்ஜி (அல்லது) பக்கோடா</Li>
+			<Li>காபி மற்றும் டீ</Li>
+		</Tamil>
+
+		<English>
+			<LH>Evening 4:30 PM - Tiffin</LH>
+			<Li>Badshah (or) conpapti</Li>
+			<Li>Mixer, Vegetable katlet (or powder) rings (or) pakkota</Li>
+			<Li>Coffee and Tea</Li>
+		</English>
+	</Node>****
+
+day2
+இரவு 7 மணி சாப்பாடு
+பால் பாயாசம் (அல்லது) அடைப்பிரதமன் 
+லாடு
+பூந்தி பச்சடி
+கோசு மல்லி
+ஸ்வீட் ஜாம்
+சேப்பங்க்கிழங்கு டோஸ்ட்
+கோஸ் பட்டாணி கறி
+வெஜிடபிள் கூட்டு
+முருங்கை சாம்பார்
+வத்த குழம்பு
+ரசம்
+பருப்பு, நெய், அப்பளம், ஊறுகாய், தயிர்
+
+The food at 7 pm
+Milk pudding (or) ataippirataman
+Latu
+Bundi Salad
+Jasmine bush
+Sweet Jam
+Toast ceppankkilanku
+Goes pea curry
+Vegetable Compound
+Drumstick sambar
+Barge broth
+Soup
+Pulses, ghee, papad, pickles, yogurt
+**********
+
+நாள் 3
+காலை 9 மணி சாப்பாடு 
+
+சேமியா பாயாசம்
+குளோப் ஜாமூன்
+தயிர் பச்சடி
+பருப்பு துவையல் (அல்லது) பருப்பு பொடிமாஸ்
+உருளை பொடிமாஸ்
+பொரிச்ச கூட்டு
+மிளகு குழம்பு
+சீரக ரசம்
+தயிர் வடை
+அரிசி அப்பளம்
+பருப்பு, நெய், ஊறுகாய்(லெமன்), தயிர்
+
+Day 3
+9am food
+
+Vermicelli pudding
+Globe jamun
+Yogurt Salad
+Chopped Chutney (or) chopped potimas
+Roller potimas
+Poricca joint
+Pepper sauce
+Cumin soup
+Curd dumplings
+Rice papad
+Pulses, ghee, pickles (Lemon), yogurt
+*****
+
+
+கட்டுசாதம்
+----------
+இட்லி, மிளகாய்ப்பொடி தடவியது
+புளியஞ்சாதம்
+தயிர் சாதம்
+வடாம்
+மோர்மிளகாய், ஊறுகாய்
+
+Packed foods
+------------
+Idli, applying pepper
+Puliyancatam
+Curd Rice
+Vatam
+Mormilakay, pickles
+****
+***********
+
+சீர் பக்ஷணங்கள் - பிள்ளை வீடு  - பெண்வீடு :
+---
+7 சுத்து முறுக்கு
+5 சுத்து முறுக்கு + லாடு
+முள்ளு முறுக்கு
+அதிரசம் / அப்பளம்
+சீர் லாடு
+சீர் மைசூர்பாகு
+சீர் பாதுஷா
+
+(தேங்காய் எண்ணை (அல்லது) ரீபைண்டு ஆயில் )
+
+
+Smooth paksanankal - child - penvitu:
+---
+7 sut winding
+5 sut winding + + latu
+Winding Mullu
+Atiracam / papad
+Smooth latu
+Smooth maicurpaku
+Smooth Badshah
+
+Coconut oil (or) Refined Oil
+****
+
+பருப்பு தேங்காய் ஜோடிகள்
+---
+தேன்குழல் (மனோகரம்) 
+நிலக்கடலை
+பூந்தி
+முந்திரி / பர்பி / பிஸ்கட்
+ஆசீர்வாத பருப்பு தேங்காய் 
+திரட்டுப்பால்
+
+Chopped coconut couples
+---
+Tenkulal (manokaram)
+Peanut
+Bundi
+Cashew / Purbi / biscuits
+Blessing chopped coconut
+If tirattup
+ 
+ 
+-->
+
+<!--<Node>
+		<NodeID>Node5</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>ஸ்ரீ ஜகத்குரு</Tamil>
+		<English>Shree Jagath Guru</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Node6</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>ஸ்ரீ ஆதித்ய பகவான்</Tamil>
+		<English>Lord Adhithya (Sun God)</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Node7</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>ஸ்ரீ சத்ய சாயி பாபா</Tamil>
+		<English>Saint Shree Sai Baba</English>
+	</Node>-->
+
+<!--
+	XML Multi Language Script Standards - Defined by Cloud Writers Ltd
+	
+	* <root> node may be any name
+	* Child nodes of <root> nodes contains the ids of tags target HTML file //Note: Illegal or Unmatched IDs lead to error
+	* There should be only one <root> node // XML standard
+	* <NodeType> node is mandatory for every ID Node
+	* Values of Node Type should only be: [ Data | OL | UL ]
+	
+	sample formats:
+	
+	1)Data Nodes:
+	-------------
+	<Node>
+		<NodeID></NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>
+			//Data in Tamil
+		</Tamil>
+		<English>
+			//Data in English
+		</English>
+	</Node>
+	
+	2)List Nodes:
+	-------------
+	<Node>
+		<NodeID></NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<Li></Li>
+			<Li></Li> ...
+		</Tamil>
+		<English>
+			<Li></Li>
+			<Li></Li> ...
+		</English>
+	</Node>
+	
+	3)Table Nodes
+	-------------
+	<Node>
+		<NodeID></NodeID>
+		<NodeType>Table</NodeType>
+		<Tamil>
+			<TR> <TH>Heading1</TH> <TH>Heading2</TH> ...n </TR>
+			<TR> <TD>Data1</TD> <TD>Data2</TD> ...n </TR> ...m
+		</Tamil>
+		<English>
+			<TR> <TH>Heading1</TH> <TH>Heading2</TH> ...n </TR>
+			<TR> <TD>Data1</TD> <TD>Data2</TD> ...n </TR> ...m
+		</English>
+	</Node>
+	
+-->

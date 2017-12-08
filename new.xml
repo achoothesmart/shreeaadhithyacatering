@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Node>
+		<NodeID>Node1</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>ஸ்ரீ ஆதித்யா </Tamil>
+		<English>Shree Adhithya</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Node2</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>கேட்ரிங் சர்வீஸஸ், திருச்சி</Tamil>
+		<English>Catering Services, Trichy</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Node8</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>தென்னிந்தியா முழுவதும்</Tamil>
+		<English>All Over South India</English>
+	</Node>
+	
+	<Node>
+		<NodeID>HomeBut</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>சிறப்பு ஏற்பாடுகள்</Tamil>
+		<English>Special Arrangements</English>
+	</Node>
+	
+	<Node>
+		<NodeID>MrgSer</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>கல்யாண சாப்பாடு</Tamil>
+		<English>Marriage Serving List</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Contact</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>தொடர்புக்கு</Tamil>
+		<English>Contact</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Gifts</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>சீர் பக்ஷணங்கள்</Tamil>
+		<English>Gifts</English>
+	</Node>
+	
+	<Node>
+		<NodeID>MSChange</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>*வாடிக்கையாளர்கள் தங்கள் விருப்பம் போல  மெனுவை மாற்றிக்கொள்ளலாம்</Tamil>
+		<English>*Menu shall be altered by customers</English>
+	</Node>
+	
+	
+	<Node>
+		<NodeID>Day1Butt</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>நாள் 1</Tamil>
+		<English>Day 1</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day2Butt</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>நாள் 2</Tamil>
+		<English>Day 2</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day3Butt</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>நாள் 3</Tamil>
+		<English>Day 3</English>
+	</Node>
+	
+	<Node>
+		<NodeID>ShreeAdhithyaIntro</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>
+			தங்கள் இல்லங்களில் நடைபெறும் திருமணம், கிரஹப்பிரவேசம், சஷ்டியப்த்பூர்த்தி மற்றும் 
+			உபநயணம் போன்ற அனைத்து விஷேசங்களுக்கும் டிபன், சாப்பாடு, சீர்பஷணங்கள் மற்றும் 
+			அனைத்து ஏற்பாடுகளும் சிறப்பாக செய்து தரப்படும். ஆபீஸ் பார்ட்டி ஆர்டர்களும் சிறந்த முறையில் செய்து தரப்படும். 
+			அனைத்து ஊர்களுக்கும் வந்து செய்து கொடுக்கிறோம்.
+		</Tamil>
+		
+		<English>
+			The marriage will take place in their homes, kirahappiravecam, upanayanam shashtiyapth poorthy and 
+			snacks for all occasions, such as, food, cirpasanankal and all the necessary arrangements can be made better. 
+			Office party orders can be made in the best manner. Offering to come to all cities.
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>SplArrTitle</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>திருமணத்திற்க்கு செய்து கொடுக்கப்படும் சிறப்பு ஏற்பாடுகள்</Tamil>
+		<English>Our Special Arrangements for Marriage</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day1MorningList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>காலை 7 மணி டிபன்</LH>
+			<Li>அவுல் கேசரி (அல்லது) ரவா கேசரி (அல்லது) பழ கேசரி</Li>
+			<Li>வெண்பொங்கல்</Li>
+			<Li>ரவா தோசை</Li>
+			<Li>சட்னி</Li>
+			<Li>சாம்பார்</Li>
+			<Li>காபி, டீ</Li>
+		</Tamil>
+		
+		<English>
+			<LH>Morning 7 AM Break fast</LH>
+			<Li>Aval Kesari (or) Rava Kesari (or) Fruit Kesari</Li>
+			<Li>VenPongal</Li>
+			<Li>Rava Thosai</Li>
+			<Li>Chutney</Li>
+			<Li>Saambaar</Li>
+			<Li>Coffee, Tea</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day1AfternoonList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<LH> மதியம் 11 மணி - சாப்பாடு </LH>
+			<Li>சர்க்கரைப் பொங்கல் </Li>
+			<Li>மைசூர் பாக் </Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>வாழைக்காய் கறி</Li>
+			<Li>அவரைக்காய் கறி</Li>
+			<Li>சௌசௌ கூட்டு</Li>
+			<Li>வெண்டை சாம்பார்</Li>
+			<Li>பூசணி மொர்க்குழம்பு</Li>
+			<Li>தக்காளி ரசம்</Li>
+			<Li>தேங்காய் சாதம்</Li>
+			<Li>மெது வடை</Li>
+			<Li>பருப்பு, நெய், அப்பளம், ஊறுகாய், தயிர் </Li>
+		</Tamil>
+		<English>
+			<LH>Noon 11 PM - Meal</LH>
+			<Li>Sweet Pongal</Li>
+			<Li>MysorePak</Li>
+			<Li>Curd Salad</Li>
+			<Li>Banana Curry</Li>
+			<Li>Broadbeans Curry</Li>
+			<Li>ChowChow Dal Curry(koottu)</Li>
+			<Li>Lady Finger Sambar</Li>
+			<Li>Pumpkin morkkulampu</Li>
+			<Li>Tomato Rasam</Li>
+			<Li>Coconut Rice</Li>
+			<Li>Soft Dumplings(vadai)</Li>
+			<Li>Pulses, Ghee, Papad, Pickles, Curd</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day1EveningList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<LH> மாலை 4.30 மணி - டிபன்</LH>
+			<Li>கோதுமை அல்வா (அல்லது) பாதாம் அல்வா </Li>
+			<Li>வெஜிடபிள் சேவை (அல்லது) கிச்சடி</Li>
+			<Li>மினி தோசை (அல்லது) அடை மோர்க்கூட்டு </Li>
+			<Li>உருளைக்கிழங்கு போண்டா (அல்லது) பட்டணம் பக்கோடா</Li>
+			<Li>சட்னி - சாம்பார்</Li>
+			<Li>காபி </Li>
+		</Tamil>
+		
+		<English>
+			<LH>Evening 4.30 PM - Tiffin</LH>
+			<Li>Wheat halwa (or) almond halwa</Li>
+			<Li>Vegetable Vermicelli (or) Kichedi</Li>
+			<Li>Mini Dosa (or) Adai Morkkuttu</Li>
+			<Li>Potato dumplings (or) Pattanam Pakkota</Li>
+			<Li>Chutney - Sambar</Li>
+			<Li>Coffee</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day1NightList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>இரவு 7 மணி - சாப்பாடு</LH>
+			<Li>தக்காளி சூப்</Li>
+			<Li>போளி</Li>
+			<Li>அக்காரவடிசல்</Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>பூரி (அல்லது) சப்பாத்தி குருமா</Li>
+			<Li>வெஜி பிரியாணி (அல்லது) பிரைடு ரைஸ்</Li>
+			<Li>உருழைக்கிழங்கு கார கறி</Li>
+			<Li>காளிப்பிளவர் டோஸ்ட் </Li>
+			<Li>பிஸிபேளாபாத்</Li>
+			<Li>கறிவேப்பிலை சாதம்</Li>
+			<Li>சிப்ஸ் - பப்படம்</Li>
+			<Li>ஊறுகாய்</Li>
+			<Li>பகாளா பாத்</Li>
+			<Li>ஐஸ்கிரீம் மற்றும் பீடா</Li>
+		</Tamil>
+		
+		<English>
+			<LH>Night 7 PM - Dinner</LH>
+			<Li>Tomato Soup</Li>
+			<Li>Poli</Li>
+			<Li>Akkaravaticel</Li>
+			<Li>Curd Salad</Li>
+			<Li>Puri (or) Chapati kurma</Li>
+			<Li>Veg biryani (or) Fried Rice</Li>
+			<Li>Potato Fry</Li>
+			<Li>Cauliflower Toast</Li>
+			<Li>Bisibelabath</Li>
+			<Li>Curryleaf rice</Li>
+			<Li>Chips - Pappadam</Li>
+			<Li>Pickle</Li>
+			<Li>Bagalabath</Li>
+			<Li>Ice Cream and Beeda</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Day2MorningList</NodeID>
+		<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>காலை 7 மணி டிபன்</LH>
+			<Li>அசோகா அல்வா (அல்லது) பைனாப்பிள் புட்டிங்</Li>
+			<Li>இட்லி, மிளகாய்ப்பொடி</Li>
+			<Li>வெண்பொங்கல்</Li>
+			<Li>மசால் தோசை (அல்லது) ஆனியன் ஊத்தப்பம்</Li>
+			<Li>ஸ்பெஷல் வடை (அல்லது) சாம்பார் வடை</Li>
+			<Li>சட்னி, சாம்பார், காபி</Li>
+			<Li>லெமன் ஜூஸ் (அல்லது ) ரஸ்னா</Li>
+		</Tamil>
+		
+		<English>
+			<LH>Breakfast 7 AM</LH>
+			<Li>Ashoka halwa (or) Pineapple Pudding</Li>
+			<Li>Idli, Chilly Powder</Li>
+			<Li>Venponkal</Li>
+			<Li>Masala dosa (or) Onion utthappam</Li>
+			<Li>Special dumplings (or) Sambarvada</Li>
+			<Li>Chutney, Sambar, Coffee</Li>
+			<Li>Lemon juice (or) Rasna</Li>
+		</English> 
+	</Node>
+	
+	<Node>
+	<NodeID>Day2AfternoonList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>11 மணி - முகூர்த்த சாப்பாடு</LH>
+			<Li>கடலை பருப்பு பாசிப்ருப்பு பாயாசம்</Li>
+			<Li>ஜாங்கிரி</Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>பழப்பச்சடி</Li>
+			<Li>வாழைக்காய் பொடிமாஸ்</Li>
+			<Li>பீன்ஸ் பருப்பு உசிலி</Li>
+			<Li>அவியல்</Li>
+			<Li>கதம்ப சாம்பார் பிட்ளை</Li>
+			<Li>வெண்டை மோர்க்குழம்பு</Li>
+			<Li>மைசூர் ரசம்</Li>
+			<Li>புளியோதரை, மசால் வடை</Li>
+			<Li>பருப்பு, நெய், அப்பளம், ஊறுகாய், தயிர் </Li>
+		</Tamil>
+
+		<English>
+			<LH>Muhurtha Lunch at 11 AM</LH>
+			<Li>Chopped nuts pudding pacipruppu</Li>
+			<Li>Jankiri</Li>
+			<Li>Curd Salad</Li>
+			<Li>Palappaccati</Li>
+			<Li>Banana potimas</Li>
+			<Li>Beans and pulses ucili</Li>
+			<Li>Science</Li>
+			<Li>Sambar bit eclectic</Li>
+			<Li>Bhindi morkkulampu</Li>
+			<Li>Mysore soup</Li>
+			<Li>Puliyotarai, lucerne dumplings</Li>
+			<Li>Pulses, ghee, papad, pickles, Curd</Li>
+		</English>
+	</Node>
+	
+	<Node>
+	<NodeID>Day2EveningList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>மாலை 4.30 மணி - டிபன்</LH>
+			<Li>பாதுஷா (அல்லது) சோன்பப்டி</Li>
+			<Li>மிக்ஸர், வெஜிடபிள் கட்லெட் (அல்லது) தூள் பஜ்ஜி (அல்லது) பக்கோடா</Li>
+			<Li>காபி மற்றும் டீ</Li>
+		</Tamil>
+
+		<English>
+			<LH>Evening 4:30 PM - Tiffin</LH>
+			<Li>Badshah (or) conpapti</Li>
+			<Li>Mixer, Vegetable katlet (or powder) rings (or) pakkota</Li>
+			<Li>Coffee and Tea</Li>
+		</English>
+	</Node>
+	
+	<Node>
+	<NodeID>Day2NightList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>இரவு 7 மணி சாப்பாடு</LH>
+			<Li>பால் பாயாசம் (அல்லது) அடைப்பிரதமன் </Li>
+			<Li>லாடு</Li>
+			<Li>பூந்தி பச்சடி</Li>
+			<Li>கோசு மல்லி</Li>
+			<Li>ஸ்வீட் ஜாம்</Li>
+			<Li>சேப்பங்க்கிழங்கு டோஸ்ட்</Li>
+			<Li>கோஸ் பட்டாணி கறி</Li>
+			<Li>வெஜிடபிள் கூட்டு</Li>
+			<Li>முருங்கை சாம்பார்</Li>
+			<Li>வத்த குழம்பு</Li>
+			<Li>ரசம்</Li>
+			<Li>பருப்பு, நெய், அப்பளம், ஊறுகாய், தயிர்</Li>
+		</Tamil>
+
+		<English>
+			<LH>Dinner at 7 PM</LH>
+			<Li>Milk pudding (or) adaippirathaman</Li>
+			<Li>Laddu</Li>
+			<Li>Bundi Salad</Li>
+			<Li>Jasmine bush</Li>
+			<Li>Sweet Jam</Li>
+			<Li>Edible Yam Toast</Li>
+			<Li>Cabbage Pea Curry</Li>
+			<Li>Vegetable Curry</Li>
+			<Li>Drumstick Sambar</Li>
+			<Li>Vatha kulambu</Li>
+			<Li>Rasam</Li>
+			<Li>Pulses, Ghee, Papad, Pickles, Curd</Li>
+		</English>
+	</Node>
+	
+	<Node>
+	<NodeID>Day3MorningList</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>காலை 9 மணி சாப்பாடு </LH>
+			<Li>சேமியா பாயாசம்</Li>
+			<Li>குளோப் ஜாமூன்</Li>
+			<Li>தயிர் பச்சடி</Li>
+			<Li>பருப்பு துவையல் (அல்லது) பருப்பு பொடிமாஸ்</Li>
+			<Li>உருளை பொடிமாஸ்</Li>
+			<Li>பொரிச்ச கூட்டு</Li>
+			<Li>மிளகு குழம்பு</Li>
+			<Li>சீரக ரசம்</Li>
+			<Li>தயிர் வடை</Li>
+			<Li>அரிசி அப்பளம்</Li>
+			<Li>பருப்பு, நெய், ஊறுகாய்(லெமன்), தயிர்</Li>
+		</Tamil>
+
+		<English>
+			<LH>Breakfast at 9 AM</LH>
+			<Li>Vermicelli pudding</Li>
+			<Li>Globe jamun</Li>
+			<Li>Yogurt Salad</Li>
+			<Li>Chopped Chutney (or) chopped potimas</Li>
+			<Li>Roller potimas</Li>
+			<Li>Poricca joint</Li>
+			<Li>Pepper sauce</Li>
+			<Li>Cumin soup</Li>
+			<Li>Curd dumplings</Li>
+			<Li>Rice papad</Li>
+			<Li>Pulses, ghee, pickles (Lemon), yogurt</Li>
+		</English>
+	</Node>
+	
+	<Node>
+	<NodeID>Day3PackedFood</NodeID>
+	<NodeType>OL</NodeType>
+		<Tamil>
+			<LH>கட்டுசாதம்</LH>
+			<Li>இட்லி, மிளகாய்ப்பொடி தடவியது</Li>
+			<Li>புளியஞ்சாதம்</Li>
+			<Li>தயிர் சாதம்</Li>
+			<Li>வடாம்</Li>
+			<Li>மோர்மிளகாய், ஊறுகாய்</Li>
+		</Tamil>
+
+		<English>
+			<LH>Packed foods</LH>
+			<Li>Idli, applying pepper</Li>
+			<Li>Puliyancatam</Li>
+			<Li>Curd Rice</Li>
+			<Li>Vatam</Li>
+			<Li>Mormilakay, pickles</Li>
+		</English>
+	</Node>
+	
+		
+	
+	<Node>
+		<NodeID>SplArrangements</NodeID>
+		<NodeType>UL</NodeType>
+		<Tamil>
+			<Li>மங்கள வாத்தியம் (சிறந்த நாதஸ்வரம்) அமைத்துத்தரப்படும்.</Li>
+			<Li>மண்டபத்தில் வாழைமரம், மாவிலை தோரணம் கட்டப்படும்.</Li>
+			<Li>நேர்த்தியான அழகிய மலர் மாலைகளும், மணமுள்ள மலர்களும் வழங்கப்படும்.</Li>
+			<Li>ஜானவாச கார் ஜோடைனைகளும், ஜானவாசமும் அமைத்துக்கொடுக்கப்படும்.</Li>
+			<Li>பெண் வீட்டிர்க்கும், மாப்பிள்ளை வீட்டிர்க்கும் டாய்லெட் செட் தரப்படும்.</Li>
+			<Li>மாபிள்ளைக்கு ஸ்பெஷல் டாய்லெட் செட் தரப்படும்.</Li>
+			<Li>வைதீகத்திற்கு தேவையான சாமான்கள் தரப்படும்.</Li>
+			<Li>காசியாத்திரை சாமான்களும், குடை, ஸ்டிக், புஸ்தகம், விசிறி, பட்டுப்பாய் (காசியாத்திரை காலனி தவிர) மற்றும் கண் ஊஞ்சல் அமைத்துத்கொடுக்கப்படும்.</Li>
+			<Li>சீர் பஷனங்கள், பருப்பு தேங்காய் ஜோடி செய்து தரப்படும்.</Li>
+			<Li>ஹார்லிக்ஸ், போர்ன்விட்டா, டீ, மற்றும் ஜூஸ் போண்றவைகளும் தரப்படும்.</Li>
+			<Li>தாம்பூலம் மற்றும் முகூர்தப்பை அச்சிட்டு தேங்காய் வெற்றிலை பாக்குடன் வழங்கப்படும்.</Li>
+			<Li>அங்குமணி சாமான்கள் 1 கிலோ வீதம் "லைவ் பெட்" ஜாரில் தரப்படும்.</Li>
+			<Li>மண்டபத்தில் கோலம் போட ஏற்பாடு செய்ய்யப்படும்.</Li>
+			<Li>போட்டோ வீடியோ வசதி செய்து தரப்படும்.</Li>
+			<Li>மணப்பெண் அலங்காரத்திற்கும் ஏற்பாடு செய்து தரப்படும்.</Li>
+			<Li>மற்றும் தெவையானவை அனைத்தும் விருப்பத்திற்கேற்ப செய்து தரப்படும்.</Li>
+			<Li>அனைத்து ஊர்களுக்கும் வந்து செய்து தருகிறோம்.</Li>
+			<Li> சிறந்த தரத்துடன் கூடிய சர்வீஸ் செய்ய்யப்படும்.</Li>
+		</Tamil>
+		<English>
+			<Li>Traditional percussion ( Best Nadhaswaram ) will be arranged.</Li>
+			<Li>Marriage hall will be decorated with Wreaths of mango leaves and banana trees.</Li>
+			<Li>Elegant beautiful flower garlands , fragrant flowers delivered.</Li>
+			<Li>Janavasa car will be arranged with flower decorations.</Li>
+			<Li>Toilet set will be provided to both side families .</Li>
+			<Li>Special toilet set to be given to Groom.</Li>
+			<Li>Ingredients for marriage rituals will be provided.</Li>
+			<Li>Luggages for kaashiyatra like umbrella, stick, book, hand fan, pattuppaai(except kashiyatra slipper) and the eye swing are provided.</Li>
+			<Li>Gifting sweets , chopped coconut pairs are provided.</Li>
+			<Li>Horlicks ​​, Bournvita , tea , and juice will be provided.</Li>
+			<Li>Tambulam and printed muhurtha bags provided with coconut and betel nuts.</Li>
+			<Li>1 kg of Angumani luggages will be provided in "Live Pet" jars.</Li>
+			<Li>Marriage hall will be decorated with Rangoli Designs.</Li>
+			<Li>The occasion will be equipped with Photo and Video.</Li>
+			<Li>Arrangements for adorning the Bride.</Li>
+			<Li>And all needs and desires are satisfied with special care.</Li>
+			<Li>We provide our catering service all over Tamilnadu with Best quality.</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>MusiriAddr</NodeID>
+		<NodeType>List</NodeType>
+		<Tamil>
+			<Li> </Li>
+			<Li> </Li>
+			<Li> </Li>
+			<Li>#20/94,</Li>
+			<Li>கிழமேல் அக்ரஹாரம்,</Li>
+			<Li>முசிறி - 621211</Li>
+		</Tamil>
+		
+		<English>
+			<Li> </Li>
+			<Li> </Li>
+			<Li> </Li>
+			<Li>#20/94,</Li>
+			<Li>East West Agraharam,</Li>
+			<Li>Musiri - 621211</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>TrichyAddr</NodeID>
+		<NodeType>List</NodeType>
+		<Tamil>
+			<Li> </Li>
+			<Li>பிளாட் நெ. B2,</Li>
+			<Li>கதவு எண் 38,</Li>
+			<Li>முதல் மெயின் ரோடு,</Li>
+			<Li>எல்.ஐ.சி காலனி,</Li>
+			<Li>திருச்சி - 620021</Li>
+		</Tamil>
+		
+		<English>
+			<Li> </Li>
+			<Li>Plot No B2,</Li>
+			<Li>D.No.38,</Li>
+			<Li>First main road,</Li>
+			<Li>LIC Colony,</Li>
+			<Li>Trichy - 620021</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>ChennaiAddr</NodeID>
+		<NodeType>List</NodeType>
+		<Tamil>
+			<Li>E2-குமார கிருபா அபார்ட்மெண்ட்,</Li>
+			<Li>5, சூர்யகாந்தி தெரு,</Li>
+			<Li>விவேகானந்தா நகர்,</Li>
+			<Li>அம்பத்தூர்,</Li>
+			<Li>சென்னை-53</Li>
+		</Tamil>
+		
+		<English>
+			<Li>E2-Kumara Kirupa Apartment,</Li>
+			<Li>5, Suryagandi Street,</Li>
+			<Li>Vivekanada Nagar,</Li>
+			<Li>Ambattur,</Li>
+			<Li>Chennai-53</Li>
+		</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Musiri</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>முசிறி</Tamil>
+		<English>Musiri</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Trichy</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>திருச்சி</Tamil>
+		<English>Trichy</English>
+	</Node>
+	
+	<Node>
+		<NodeID>Chennai</NodeID>
+		<NodeType>Data</NodeType>
+		<Tamil>சென்னை</Tamil>
+		<English>Chennai</English>
+	</Node>
+	
+	<Node>
+	<NodeID>GiftSnacks</NodeID>
+	<NodeType>Table</NodeType>
+		<Tamil>
+			<TR><TH>சீர் பக்ஷணங்கள்</TH>  <TH>பிள்ளை வீடு</TH>  <TH>பெண்வீடு</TH> </TR>
+			<TR><TD>7 சுத்து முறுக்கு</TD> <TD>51</TD> <TD>*</TD> </TR>
+			<TR><TD>5 சுத்து முறுக்கு + லாடு</TD> <TD>*</TD> <TD>*</TD> </TR>
+			<TR><TD>முள்ளு முறுக்கு</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>அதிரசம் / அப்பம்</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>சீர் லாடு</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>சீர் மைசூர்பாகு</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>சீர் பாதுஷா</TD> <TD>51</TD> <TD>51</TD></TR>
+		</Tamil>
+		
+		<English>
+			<TR><TH>Smooth paksanankal</TH> <TH>child</TH> <TH>penvitu</TH></TR>
+			<TR><TD>7 sut winding</TD> <TD>51</TD> <TD>*</TD> </TR>
+			<TR><TD>5 sut winding + + latu</TD> <TD>*</TD> <TD>*</TD> </TR>
+			<TR><TD>Winding Mullu</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>Atiracam / papad</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>Smooth latu</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>Smooth maicurpaku</TD> <TD>51</TD> <TD>51</TD> </TR>
+			<TR><TD>Smooth Badshah</TD> <TD>51</TD> <TD>51</TD> </TR>
+		</English>
+	</Node>
+	
+
+</root>
